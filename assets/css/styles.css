@@ -2,8 +2,18 @@
     width: 80%;
     margin: auto;
     padding: 0.25%;
+    /*overflow-y: hidden;*/
 }
 
 .titulo {
-    color: rgb(108, 145, 14, 0.616);
-}
+    color: rgba(145, 14, 14, 0.616);
+
+   }
+
+   .fondo {
+    /*background:rgba(14, 125, 145, 0.616)*/
+    /*background-image: url(https://2.bp.blogspot.com/-3d92ta4_JEc/TvmzTTgNBKI/AAAAAAAACJ4/GFC9bCwM5vQ/s1600/imagenes-jpg-712861.jpg)*/
+    background-image: url(../img/imagenes-jpg-712861.jpg);
+   }
+/*px*/
+ /*#000 hex color - color hexadecimal*/
