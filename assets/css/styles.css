@@ -1,6 +1,6 @@
 *{
-    width: 80%;
-    margin: ringt;
+   /*width: 80%*/
+    /*margin: ringt;*/    
     padding: 0.25%;
     /*overflow-y: hidden;*/
 }
@@ -15,5 +15,38 @@
     /*background-image: url(https://2.bp.blogspot.com/-3d92ta4_JEc/TvmzTTgNBKI/AAAAAAAACJ4/GFC9bCwM5vQ/s1600/imagenes-jpg-712861.jpg)*/
     background-image: url(../img/imagenes-jpg-712861.jpg);
    }
+
+   .verde {
+
+color: rgb(8, 152, 22);
+
+   }
+
+   .rojo {
+
+color: rgb(194, 14, 14);
+
+   }
+   .card {
+
+    width: auto;
+
+   }
+
+   table.table.table-dark.table-striped{
+
+    background-color: rgb(43, 226, 186) !important;
+    border-color: brown !important;
+    color: blue !important;
+   }
+
+   .table.table-striped>tbody>tr:nth-of-type(odd)>*{
+
+    background-color: rgb(43, 226, 186) !important;
+    border-color: brown !important;
+    color: blue !important;
+    --bs-table-accent-bg: #fff !important
+   }
+
 /*px*/
  /*#000 hex color - color hexadecimal*/
